@@ -1,4 +1,4 @@
-# CS 118 Course Project 2 - Reliable Data Transfer and Congestion Control
+# Reliable Data Transfer and Congestion Control
 
 ## Overview
 
